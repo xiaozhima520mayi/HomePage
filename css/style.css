@@ -163,6 +163,7 @@ header .vert-text .scroll-down::before {
 }
 .project-item {
   width: 250px;
+  height:380px;
   margin: 10px auto 20px auto;
   padding: 10px 15px;
   border: solid 1px rgba(255, 255, 255, 0.15);
